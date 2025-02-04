@@ -3,16 +3,16 @@
   "overview": "Game Overview",
   "guide": "Player Guide",
   "economy": "Game Economy & Tokenomics",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
+  "mechanics": "Game Mechanics",
+  "strategy": "Competitive Play & Strategy",
+    "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://discord.gg/xnhPqRymYM",
     "newWindow": true
   }
 }

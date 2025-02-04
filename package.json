@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "Evoverses Documentation",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Evoverses",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/evoverses"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Dan Manchester <dan@evoverses.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/evoverses"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://evoverses.com",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
