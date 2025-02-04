@@ -2,9 +2,10 @@
   "index": "Introduction",
   "overview": "Game Overview",
   "guide": "Player Guide",
-  "economy": "Game Economy & Tokenomics",
   "mechanics": "Game Mechanics",
   "strategy": "Competitive Play & Strategy",
+  "economy": "Game Economy & Tokenomics",
+
     "about": {
     "title": "About",
     "type": "page"
